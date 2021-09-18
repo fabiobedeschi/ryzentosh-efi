@@ -12,7 +12,7 @@ This repo contains my EFI configuration used to boot macOS on a custom PC using 
 | RAM         | Crucial Ballistix DDR4 3600 MHz (8GB x2) |
 | Storage     | Sabrent Rocket NVMe PCIe 4.0 (500 GB)    |
 | Ethernet    | Realtek RTL8125 2.5GbE                   |
-| Wi-Fi & BT  | Intel Wi-Fi 6 AX200                      |
+| Wi-Fi & BT  | Intel Wi-Fi 6 AX200 (MoBo bundled)       |
 
 ### Notes
 
