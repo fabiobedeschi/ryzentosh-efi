@@ -248,10 +248,27 @@
 				<key>model</key>
 				<string>E16 PCIe4 NVMe Controller</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x1,0x2)/Pci(0x0,0x2)/Pci(0x9,0x0)/Pci(0x0,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
-				<key>class-code</key>
-				<data>/////w==</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,3,1/0,0/0,0/0,0</string>
+				<key>device_type</key>
+				<string>VGA compatible controller</string>
+				<key>model</key>
+				<string>Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]</string>
+				<key>unfairgva</key>
+				<data>AQAAAA==</data>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x2)/Pci(0x0,0x2)/Pci(0x2,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,1,2/0,2/2,0/0,0</string>
+				<key>built-in</key>
+				<data>AQ==</data>
+				<key>device_type</key>
+				<string>Network controller</string>
+				<key>model</key>
+				<string>BCM4360 802.11ac Wireless Network Adapter</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
